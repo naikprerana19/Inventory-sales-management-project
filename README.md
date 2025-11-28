@@ -12,4 +12,5 @@ This project utilizes Power BI Desktop to create an interactive dashboard for op
  * Data Modeling: Relational model (\text{Fact Sales} \leftrightarrow \text{Dim Products}) 🔗
  * Visualizations: Bar charts, line charts, slicers, and card visuals for an executive summary view. 👁‍🗨
 
-linkedIn post:
+linkedIn post:https://www.linkedin.com/feed/update/urn:li:ugcPost:7400070985540067328/
+
